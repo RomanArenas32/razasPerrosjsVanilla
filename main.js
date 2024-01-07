@@ -5,10 +5,10 @@ import './style.css'
 document.querySelector('#app').innerHTML = `
   <div>
     <header class="header">
-      <img src='./public/Logo.png' alt="logo">
+      <img src='./assets/img/Logo.png' alt="logo">
     </header>
     <nav class="navegacion">
-      <img src='./public/icons8-perro-80.png' alt="">
+      <img src='./assets/img/icons8-perro-80.png' alt="">
       <div class="tooltip-cartel">
         <span class="tooltip">Hola :)</span>
         <span class="text">Bienvenido a PetUsers</span>
